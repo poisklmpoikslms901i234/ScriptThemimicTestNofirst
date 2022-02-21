@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("ควยตัน")
+game.Players.LocalPlayer:Kick("ควยไปร์ท")
